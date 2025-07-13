@@ -12,7 +12,3 @@ public class App
         System.out.println("Change made on: " + new java.util.Date());
     }
 }
-/**
- * Hello world!
- *
- */
